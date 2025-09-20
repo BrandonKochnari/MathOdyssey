@@ -41,9 +41,8 @@ Players earn points for correct answers, unlock power-ups through streaks, and c
    • Scores are saved to scoreboard.txt automatically.
 
 ## Example Gameplay
-Example Gameplay
 
-• Solve an algebra equation in under 30 seconds.
-• Answer 3 in a row → unlock a power-up.
-• Use power-ups to skip hard problems or gain bonus points.
-• End of game → scoreboard updates with your performance.
+• Solve an algebra equation in under 30 seconds.  
+• Answer 3 in a row → unlock a power-up.  
+• Use power-ups to skip hard problems or gain bonus points.  
+• End of game → scoreboard updates with your performance.  
